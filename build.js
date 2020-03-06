@@ -11,7 +11,8 @@ const options = {
 
 const data = {
   name: chalk.red('              Eric Newport'),
-  work: chalk.blue('I write software, sci-fi reviews, and sometimes some other stuff too.'),
+  work1: chalk.blue('Experienced Software Engineer 👨‍💻 and Wearer of Many Hats 🎩'),
+  work2: chalk.blue('I write software, sci-fi reviews, and sometimes some other stuff too.'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('kethinov'),
   npm: chalk.gray('https://npmjs.com/') + chalk.cyan('~kethinov'),
   github: chalk.gray('https://github.com/') + chalk.cyan('kethinov'),
@@ -29,7 +30,8 @@ const data = {
 
 const newline = '\n'
 const heading = `${data.name}`
-const working = `${data.labelWork}  ${data.work}`
+const working1 = `${data.labelWork}  ${data.work1}`
+const working2 = `${data.labelWork}  ${data.work2}`
 const twittering = `${data.labelTwitter}  ${data.twitter}`
 const npm = `${data.labelnpm}  ${data.npm}`
 const githubing = `${data.labelGitHub}  ${data.github}`
@@ -39,7 +41,8 @@ const carding = `${data.labelCard}  ${data.npx}`
 
 const output = heading +
                newline + newline +
-               working + newline + newline +
+               working1 + newline + newline +
+               working2 + newline + newline +
                twittering + newline +
                npm + newline +
                githubing + newline +
