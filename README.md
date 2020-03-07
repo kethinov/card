@@ -7,6 +7,8 @@ npx kethinov
    │                                                                                         │
    │                 Eric Newport                                                            │
    │                                                                                         │
+   │                 Experienced Software Engineer 👨‍💻 and Wearer of Many Hats 🎩             │
+   │                                                                                         │
    │                 I write software, sci-fi reviews, and sometimes some other stuff too.   │
    │                                                                                         │
    │       Twitter:  https://twitter.com/kethinov                                            │
