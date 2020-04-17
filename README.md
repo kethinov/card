@@ -1,4 +1,4 @@
-# A personal card for Eric Newport.
+# A personal card for Eric Newport
 
 ```
 npx kethinov
