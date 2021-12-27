@@ -19,7 +19,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "boxen": "~5.1.0",
+    "boxen": "~6.2.0",
     "chalk": "~4.1.0",
     "standard": "~16.0.4"
   },
