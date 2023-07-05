@@ -22,7 +22,7 @@ async function build () {
     npm: chalk.gray('https://npmjs.com/') + chalk.cyan('~kethinov'),
     github: chalk.gray('https://github.com/') + chalk.cyan('kethinov'),
     linkedin: chalk.gray('https://linkedin.com/in/') + chalk.cyan('kethinov'),
-    wellfound: chalk.gray('https://wellfound.com/u/kethinov') + chalk.cyan('kethinov'),
+    wellfound: chalk.gray('https://wellfound.com/u/') + chalk.cyan('kethinov'),
     web: chalk.cyan('http://kethinov.com'),
     npx: chalk.white('npx') + ' ' + chalk.white('kethinov'),
     labelWork: chalk.gray.bold('            '),

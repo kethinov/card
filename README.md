@@ -15,7 +15,7 @@ npx kethinov
    │           npm:  https://npmjs.com/~kethinov                                │
    │        GitHub:  https://github.com/kethinov                                │
    │      LinkedIn:  https://linkedin.com/in/kethinov                           │
-   │     AngelList:  https://angel.co/u/kethinov                                │
+   │     Wellfound:  https://wellfound.com/u/kethinov                           │
    │           Web:  http://kethinov.com                                        │
    │                                                                            │
    │          Card:  npx kethinov                                               │
