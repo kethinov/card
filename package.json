@@ -2,7 +2,7 @@
   "name": "kethinov",
   "description": "A personal card for Eric Newport.",
   "author": "Eric Newport <kethinov@gmail.com>",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "http://kethinov.com",
   "license": "CC-BY-4.0",
   "main": "/bin/card.js",
