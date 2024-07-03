@@ -11,12 +11,12 @@ npx kethinov
    │                 and Wearer of Many Hats 🎩                                 │
    │                                                                            │
    │      Mastodon:  https://mastodon.social/@kethinov                          │
-   │       Twitter:  https://twitter.com/kethinov                               │
+   │   Twitter (X):  https://twitter.com/kethinov                               │
    │           npm:  https://npmjs.com/~kethinov                                │
    │        GitHub:  https://github.com/kethinov                                │
    │      LinkedIn:  https://linkedin.com/in/kethinov                           │
    │     Wellfound:  https://wellfound.com/u/kethinov                           │
-   │           Web:  http://kethinov.com                                        │
+   │           Web:  https://kethinov.com                                       │
    │                                                                            │
    │          Card:  npx kethinov                                               │
    │                                                                            │
