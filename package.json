@@ -21,7 +21,7 @@
   "devDependencies": {
     "boxen": "7.1.1",
     "chalk": "5.3.0",
-    "standard": "17.1.0"
+    "standard": "17.1.2"
   },
   "scripts": {
     "build": "node build.js",
