@@ -23,6 +23,7 @@ async function build () {
     github: chalk.gray('https://github.com/') + chalk.cyan('kethinov'),
     linkedin: chalk.gray('https://linkedin.com/in/') + chalk.cyan('kethinov'),
     wellfound: chalk.gray('https://wellfound.com/u/') + chalk.cyan('kethinov'),
+    resume: chalk.cyan('https://kethinov.net/resume'),
     web: chalk.cyan('https://kethinov.com'),
     npx: chalk.white('npx') + ' ' + chalk.white('kethinov'),
     labelWork: chalk.gray.bold('            '),
@@ -32,6 +33,7 @@ async function build () {
     labelGitHub: chalk.gray.bold('     GitHub:'),
     labelLinkedIn: chalk.gray.bold('   LinkedIn:'),
     labelWellfound: chalk.gray.bold('  Wellfound:'),
+    labelResume: chalk.gray.bold('     Resume:'),
     labelWeb: chalk.gray.bold('        Web:'),
     labelCard: chalk.white('       Card:')
   }
@@ -46,6 +48,7 @@ async function build () {
   const githubing = `${data.labelGitHub}  ${data.github}`
   const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
   const wellfoundng = `${data.labelWellfound}  ${data.wellfound}`
+  const resumeing = `${data.labelResume}  ${data.resume}`
   const webing = `${data.labelWeb}  ${data.web}`
   const carding = `${data.labelCard}  ${data.npx}`
 
@@ -59,6 +62,7 @@ async function build () {
                   githubing + newline +
                   linkedining + newline +
                   wellfoundng + newline +
+                  resumeing + newline +
                   webing + newline + newline +
                   carding
 
