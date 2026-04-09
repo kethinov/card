@@ -25,7 +25,7 @@ async function build () {
     wellfound: chalk.gray('https://wellfound.com/u/') + chalk.cyan('kethinov'),
     resume: chalk.cyan('https://kethinov.net/resume'),
     web: chalk.cyan('https://kethinov.com'),
-    npx: chalk.white('npx exec') + ' ' + chalk.white('kethinov'),
+    npx: chalk.white('npx') + ' ' + chalk.white('kethinov'),
     labelWork: chalk.gray.bold('            '),
     labelMastodon: chalk.gray.bold('   Mastodon:'),
     labelTwitter: chalk.gray.bold('Twitter (X):'),
